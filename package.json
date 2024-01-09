@@ -1,0 +1,19 @@
+{
+  "name": "html1",
+  "version": "1.0.0",
+  "description": "building a website related to food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wclaros1786/omnifood.git"
+  },
+  "author": "will",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wclaros1786/omnifood/issues"
+  },
+  "homepage": "https://github.com/wclaros1786/omnifood#readme"
+}
