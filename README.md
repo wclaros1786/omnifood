@@ -126,3 +126,14 @@ Careers
 Recipe directory
 Help center
 Privacy & terms
+
+<!--
+Git reminders:
+echo "# omnifood" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:wclaros1786/omnifood.git
+git push -u origin main
+-->
